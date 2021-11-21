@@ -1,0 +1,7 @@
+F=m*a
+d=m/V
+v=x/t
+P=W/t
+F=p/t
+p=m*v
+i=Q/t

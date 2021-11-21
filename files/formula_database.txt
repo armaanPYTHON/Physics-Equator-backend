@@ -1,0 +1,14 @@
+F=m*a
+d=m/V
+v=x/t
+P=W/t
+F=p/t
+p=m*v
+i=Q/t
+(F)/a=m
+(d)*V=m
+(v)*t=x
+(P)*t=W
+(F)*t=p
+(p)/v=m
+(i)*t=Q

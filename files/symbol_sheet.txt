@@ -1,0 +1,17 @@
+F: Force
+m: Mass
+a: Acceleration
+v: Velocity
+V: Volume
+t: Time
+T: Temperature
+P: Power
+p: Linear Momentum
+W: Work
+x: Displacement
+s: Distance
+d: density
+i: Current
+Q: Charge
+R: Resistance
+J: Current density
